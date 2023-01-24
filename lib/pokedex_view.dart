@@ -7,6 +7,7 @@ class PokedexView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Pokedex'),
+        backgroundColor: Colors.redAccent,
       ),
     );
   }
